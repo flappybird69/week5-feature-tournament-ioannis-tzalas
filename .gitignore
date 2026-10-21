@@ -1,0 +1,9 @@
+.DS_Store
+*.pptx
+*.ppt
+*Speech*
+*speech*
+*Presentation*.txt
+*presentation*.txt
+__pycache__/
+.ipynb_checkpoints/
